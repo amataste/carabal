@@ -1,0 +1,10 @@
+---
+title: "Sobre Carabal"
+author: "M. Carabal"
+date: "2023-12-14"
+categories: [news]
+---
+
+¡En construcción!
+
+![](image.jpg)
