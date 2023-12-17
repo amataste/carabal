@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 20ea0625-0101-4ede-82be-7339d6f47f5a
+      url: 'https://atarjea.quarto.pub/carabal'

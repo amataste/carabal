@@ -1,5 +1,5 @@
 ---
-title: "carabal"
+title: "En las entretelas de la existencia"
 listing:
   contents: posts
   sort: "date desc"

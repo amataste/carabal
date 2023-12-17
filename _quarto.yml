@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "carabal"
+  title: "Sitio web de Manuel Carabias"
   navbar:
     right:
       - about.qmd
@@ -12,8 +12,13 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
 
 editor: visual
+
+comments: 
+  giscus:
+    repo: amataste/carabal
+
 
